@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine Learning and gamedev
 - 🌱 I’m currently C++ with SDL2 (a graphics framework if you're curious) <!-- 📫 How to reach me: biruni056@gmail.com-->
 - 😄 Pronouns: He/Him, but I don't really care how you refer to me.
-- ⚡ Fun fact: For all its faults, I still love Python.
+- ⚡ Fun fact: For all its faults, I still love Python. and Java. Don't @ me.
 
 <!---
 UsUsStudios/UsUsStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
